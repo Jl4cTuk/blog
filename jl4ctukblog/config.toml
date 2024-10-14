@@ -1,0 +1,21 @@
+baseURL = 'https://jl4ctuk.github.io/'
+languageCode = 'en-us'
+title = 'Абидчики Ластика'
+
+theme = "hugo-theme-re-terminal"
+
+[params]
+  author = "jl4ctuk"
+  description = "Тут мои абидчики"
+  themeColor = "green"  # Можно выбрать другие цвета: "blue", "red", "green", "pink"
+  contentTypeName = "posts"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+
+[languages]
+  [languages.en.params]
+    readMore = "Read more"
+  [languages.ru.params]
+    readMore = "Читать далее"

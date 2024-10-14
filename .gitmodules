@@ -1,0 +1,4 @@
+[submodule "jl4ctukblog/public"]
+	path = jl4ctukblog/public
+	url = git@github.com:Jl4cTuk/jl4ctuk.github.io.git
+	branch = main
