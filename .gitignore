@@ -1,0 +1,4 @@
+.tools/
+jl4ctukblog/.hugo_build.lock
+jl4ctukblog/resources/_gen/assets/css/*.content
+jl4ctukblog/resources/_gen/assets/css/*.json

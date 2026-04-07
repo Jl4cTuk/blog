@@ -2,3 +2,6 @@
 	path = jl4ctukblog/public
 	url = git@github.com:Jl4cTuk/jl4ctuk.github.io.git
 	branch = main
+[submodule "jl4ctukblog/themes/hugo-theme-re-terminal"]
+	path = jl4ctukblog/themes/hugo-theme-re-terminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git
